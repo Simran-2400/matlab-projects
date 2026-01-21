@@ -1,0 +1,3 @@
+Row	Acquisti in euro	Numero visite
+Media mensile	110.63	3.7
+Totale mensile	736871	12157
